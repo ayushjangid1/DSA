@@ -65,10 +65,10 @@ int main()
     int currsum = 0;
     for(int i=0;i<n;i++){
         currsum+=arr[i];
+        maxsum = max(currsum,maxsum);
         if(currsum<0){
             currsum=0;
         }
-        maxsum = max(currsum,maxsum);
     }
     cout<<maxsum<<endl;
     return 0;
