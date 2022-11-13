@@ -1,0 +1,1 @@
+{"name":"Local: min_steps_for_palindrome","url":"c:\\Users\\Ayush\\Documents\\code\\DSA\\min_steps_for_palindrome.cpp","tests":[{"id":1668326005686,"input":"5\n1 4 5 9 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ayush\\Documents\\code\\DSA\\min_steps_for_palindrome.cpp","group":"local","local":true}
